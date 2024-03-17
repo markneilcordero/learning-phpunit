@@ -1,0 +1,1 @@
+{"version":1,"defects":[],"times":{"MathTest::testFibonacci":0.003,"MathTest::testFactorial":0,"MathTest::testFactorialGreaterThanFibonacci":0}}
